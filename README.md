@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![ScreenShot](https://raw.github.com/{ayush-lab}/{ayush-lab}/{master}/{/mee.png})
+![ScreenShot](/mee.png)
 <!--
 **ayush-lab/ayush-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
