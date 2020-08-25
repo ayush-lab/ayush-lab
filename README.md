@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Alt text](/../<master>/path/to/mee.png?raw=true "Optional Title")
+
+
+![Alt text](/relative/path/to/mee.png?raw=true "Optional Title")
 <!--
 **ayush-lab/ayush-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
