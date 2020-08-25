@@ -1,6 +1,6 @@
-### Hi there 👋
 
-![alt text](https://raw.githubusercontent.com/ayush-lab/ayush-lab/master/mee.png)
+
+<a href="#"> ![alt text](https://raw.githubusercontent.com/ayush-lab/ayush-lab/master/mee.png)</a>
 
 <!--
 **ayush-lab/ayush-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
