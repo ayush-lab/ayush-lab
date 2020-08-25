@@ -1,6 +1,6 @@
+### 🌱 Clink the picture to know more about me!
 
-
-<a href="#"> ![alt text](https://raw.githubusercontent.com/ayush-lab/ayush-lab/master/mee.png)</a>
+<a href="https://ayush-lab.github.io/Portfolio-ayush/templates/portfolio"> ![alt text](https://raw.githubusercontent.com/ayush-lab/ayush-lab/master/mee.png)</a>
 
 <!--
 **ayush-lab/ayush-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
