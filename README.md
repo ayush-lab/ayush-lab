@@ -11,7 +11,6 @@ I'm a Full Stack MERN developer 🌐 I love to build applications which are usef
 - 💬 &nbsp; Ask me anything about MERN (preferably React).
 - 📫 &nbsp; Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/ayushimpulse/)
 - 🌱 &nbsp; When I am free, I love to play badminton or read about finance.
-- 🌱 &nbsp; Best quote: Know something of everything and everything of something.
 - 📫 &nbsp; How to reach me **ayush.verma8750@gmail.com**
 
 ### Connect With Me On :
