@@ -7,10 +7,10 @@ I'm a Full Stack MERN developer 🌐 I love to build applications which are usef
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently learning blockchain and devops.
-- 💬 &nbsp; Ask me anything about MERN (preferably React).
+- 🔭 &nbsp; I’m currently doing competitive programming and learning data structures and algorithms.
+- 💬 &nbsp; Ask me anything about React
 - 📫 &nbsp; Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/ayushimpulse/)
-- 🌱 &nbsp; When I am free, I love to play badminton or read about finance.
+- 🌱 &nbsp; When I am free, I love to play badminton or Table Tennis.
 - 📫 &nbsp; How to reach me **ayush.verma8750@gmail.com**
 
 ### Connect With Me On :
