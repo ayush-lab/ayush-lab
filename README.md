@@ -11,7 +11,7 @@ I'm a Full Stack MERN developer 🌐 I love to build applications which are usef
 - 💬 &nbsp; Ask me anything about React
 - 📫 &nbsp; Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/ayushimpulse/)
 - 🌱 &nbsp; When I am free, I love to play badminton or Table Tennis.
-- 📫 &nbsp; How to reach me **ayush.verma8750@gmail.com**
+- 📫 &nbsp; How to reach me *https://www.linkedin.com/in/ayushimpulse/*
 
 ### Connect With Me On :
 <p align="left">
