@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-I am <a href="https://github.com/ayush-lab"> Ayush Verma</a>. I'm a Full Stack MERN developer 🌐 I love to build applications which are useful in the real world  🛠️
+I am <a href="https://github.com/ayush-lab"> Ayush Verma</a>. I'm a Frontend developer 🌐 I love to build applications which are useful in the real world  🛠️
 </br>
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </br>
