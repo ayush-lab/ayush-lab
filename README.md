@@ -26,5 +26,5 @@ I am <a href="https://github.com/ayush-lab"> Ayush Verma</a>. I'm a Frontend dev
 <img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 </br>
 </br>
-<img src="https://github-readme-stats.vercel.app/api?username=Gautam-Arora24&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ayush-lab&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
